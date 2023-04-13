@@ -9,4 +9,4 @@ I am a `Senior Product Designer` <a href="https://github.com/github" target="_bl
 - 💜 Advocating for the customer
 - 💬 Mentoring
 
-Check out my portfolio <a href="https://mayrapulido.com/" target="_blank">here</a> and connect with me on <a href="https://twitter.com/stay_maiix" target="_blank">twitter</a>.
+Check out my portfolio <a href="https://mayrapulido.com/" target="_blank">here</a> and connect with me on <a href="https://twitter.com/hey_maiix" target="_blank">twitter</a>.
